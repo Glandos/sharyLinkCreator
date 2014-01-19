@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 # encoding: utf-8
 '''
-shareToOwncloud -- Share files to your OwncloudService instance
+sharyLinkCreator -- Share files using your own public server instance
 
 @author:     Adrien CLERC
 
