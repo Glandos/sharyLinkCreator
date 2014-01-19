@@ -3,7 +3,7 @@ SharyLinkCreator
 
 This program makes sharing files as easy as a click.
 
-Inspired by Bjoern Schiessle with [ShareLinkCreator][1] written in shell, this is a Python version, that should enables you to have much more control over uploaded files.
+Inspired by Björn Schiessle with [ShareLinkCreator][1] written in shell, this is a Python version, that should enables you to have much more control over uploaded files.
 
 It can be used in many ways, but its main goal is to be integrated in file managers, such as Thunar, Dolphin, Nautilus or Nemo.
 
